@@ -121,6 +121,21 @@ Use all-lower-hyphen-css-case for multiword filenames, config keys and folder na
 Use . notation for js files.  
 
     page.controller.js
+    
+
+General Folder Structure:
+
+
+/styles
+/sass
+/scripts
+	/libs
+	/app
+
+Alternatively use of /css and /js is fine.
+
+
+
 
 
 
